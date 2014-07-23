@@ -30,6 +30,10 @@ Grails Release notes
 http://grails.org/Release+Notes
 
 
+Groovy Podcast
+http://groovypodcast.podbean.com/
+
+
 Grails twitter
 https://twitter.com/grailsframework/
 
@@ -40,6 +44,8 @@ http://www.objectpartners.com/blog/
 
 Gr8Conf Youtube -  they record all the presentations and post for free
 https://www.youtube.com/channel/UCJXNOMywewNmau4hzAy4LjA
+
+
 
 
 Testing
