@@ -18,13 +18,13 @@ class QuestionService {
 	@CachePut(value = 'question', key = '#question.id')
 	void save(Question question) {
 		println "Saving question $question"
-		message.save()
+		question.save()
 	}
 
 	@CacheEvict(value = 'question', key = '#question.id')
 	void delete(Question question) {
 		println "Deleting question $question"
-		message.delete()
+		question.delete()
 	}
 }
 
