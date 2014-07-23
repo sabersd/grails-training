@@ -20,7 +20,6 @@ class QuestionController {
 
 	def show(Question questionInstance) {
 		def answers = questionInstance.answers.sort { a,b -> b.voteCount <=> a.voteCount }
-
 		respond questionInstance, model: [answers: answers]
 	}
 

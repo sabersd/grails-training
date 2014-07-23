@@ -25,7 +25,7 @@
 		<div class="col-md-10">
 			<div class="row">
 				<div class="col-md-9">
-					<h2>${questionInstance.title}</h2>
+					<h2>${questionInstance.title.encodeAsReverse()}</h2>
 				</div>
 
 			</div>
