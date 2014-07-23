@@ -46,7 +46,7 @@
 	<div class="row">
 		<div class="col-md-8 col-md-offset-2">
 			<g:if test="${flash.message}">
-				<div class="alert alert-error">${flash.message}</div>
+				<div class="bg-danger">${flash.message}</div>
 			</g:if>
 
 			<g:hasErrors bean="${answer}">
