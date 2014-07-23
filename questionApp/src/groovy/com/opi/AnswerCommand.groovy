@@ -5,6 +5,7 @@ import grails.validation.Validateable
 @Validateable
 class AnswerCommand {
 	Question id
+	String question
 	String answer
 
 	static constraints = {

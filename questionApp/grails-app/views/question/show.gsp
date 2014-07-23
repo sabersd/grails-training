@@ -54,6 +54,7 @@
 			</g:hasErrors>
 
 			<g:form class="form" controller="answer" action="answer" id="${questionInstance.id}">
+				<g:hiddenField name="question" value="${questionInstance.id}" />
 				<div class="form-group">
 					<label for="answer">Your Answer</label>
 				</div>
