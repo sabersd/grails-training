@@ -1,4 +1,4 @@
-﻿Evaluation:
+Evaluation:
 https://docs.google.com/forms/d/1XzlrqtmKraOmYRM7bsK9IbX4FainAMtzRtEN8c8OxTM/viewform
 
 
@@ -47,6 +47,10 @@ http://www.objectpartners.com/blog/
 Gr8Conf Youtube -  they record all the presentations and post for free
 https://www.youtube.com/channel/UCJXNOMywewNmau4hzAy4LjA
 
+Jeff Scott Brown Meta Programming 
+Metaprogramming With The Groovy Runtime - Part 1 of 2
+Metaprogramming With The Groovy Compiler - Part 2 of 2
+
 
 
 
@@ -94,4 +98,5 @@ http://tech.puredanger.com/2009/07/10/hibernate-query-cache/
 http://grails.org/plugin/app-info
 http://grails.org/plugin/hibernate-stats
 http://grails.org/plugin/cache-ehcache
-http://grails.org/plugin/cache-redis
+
+
