@@ -19,12 +19,8 @@ class QuestionController {
 	}
 
 	def show(Question questionInstance) {
-<<<<<<< HEAD
-		def answers = questionInstance.answers.sort { a,b -> b.voteCount <=> a.voteCount }
-=======
 		def answers = questionInstance?.answers?.sort { a,b -> b.voteCount <=> a.voteCount }
 
->>>>>>> upstream/viewLayerFinish
 		respond questionInstance, model: [answers: answers]
 	}
 
